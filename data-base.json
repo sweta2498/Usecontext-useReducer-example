@@ -1,0 +1,18 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "firstname": "sweta",
+      "lastname": "Raghvani",
+      "email": "sweta",
+      "password": "sweta"
+    },
+    {
+      "id": 2,
+      "firstname": "sweta",
+      "lastname": "Raghvani",
+      "email": "a@gmail.com",
+      "password": "sweta"
+    }
+  ]
+}
